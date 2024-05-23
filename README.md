@@ -1,6 +1,6 @@
 # Gabriella Escher
 ## 🙋🏻‍♂️  About me
-### I'm 21 years old, I live in São Paulo, Brazil, and I'm a beginner in the programming area. I do system analysis and development. My interest in the field began with a curiosity about how technology works. After that, my friends recommended some courses where I had my first contact with algorithms. Later, I took a web development course, where I learned HTML, CSS, and Javascript. During a period of uncertainty about which area to pursue, I became interested in data analysis. <br> ✨ My hobbies include playing instruments, drawing, watching movies/series, and going out with family or friends.
+### I'm 21 years old, I live in São Paulo, Brazil, and I'm a beginner in the programming area. I do system analysis and development. My interest in the field began with a curiosity about how technology works. After that, my friends recommended some courses where I had my first contact with algorithms. Later, I took a web development course, where I learned HTML, CSS, and Javascript. During a period of uncertainty about which area to pursue, I became interested in data analysis and I'm currently taking a course on the fundamentals of AWS. <br> ✨ My hobbies include playing instruments, drawing, watching movies/series, and going out with family or friends.
 
 ## Connect with me
 
